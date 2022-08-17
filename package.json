@@ -9,11 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.7",
+    "@mui/x-data-grid": "^5.15.2",
+    "axios": "^0.27.2",
+    "js-cookie": "^3.0.1",
     "next": "12.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-toastify": "^9.0.7",
+    "swiper": "^8.3.1"
   },
   "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
     "@types/node": "18.0.3",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",

@@ -1,0 +1,1 @@
+export {default as TallerApi} from './TGonzalesApi'
