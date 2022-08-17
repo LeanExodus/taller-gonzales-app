@@ -78,7 +78,7 @@ export const Footer = () => {
 
           </Grid>
           <Box textAlign={'center'} pt={{ xs: 5, sm: 10 }} pb={{ xs: 5, sm: 0 }}>
-            Taller Automotriz Gónzalez &reg; {new Date().getFullYear()}
+            Taller Automotriz Gonzales &reg; {new Date().getFullYear()}
           </Box>
         </Container>
     </Box>
