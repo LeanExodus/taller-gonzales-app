@@ -56,7 +56,7 @@ export const Appointment = () => {
             <Grid mt={8} mb={5} container component="main">
 
 
-                <Grid item xs={12} md={6} component={Paper} elevation={4} square>
+                <Grid item xs={12} component={Paper} elevation={4} square>
                     <Box
                         sx={{
                             my: 8,
